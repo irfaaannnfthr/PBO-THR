@@ -66,7 +66,7 @@ Penggunaan aggregation ini membantu dalam memisahkan pengelolaan data waktu deng
 
 BAGIAN 2 - DESAIN CLASS DIAGRAM
 
-![Diagram](assets/pboo%20Diagram.jpg)
+  ![Diagram](assets/pboo%20Diagram.jpg)
 
 
 
